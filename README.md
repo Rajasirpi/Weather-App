@@ -1,5 +1,3 @@
-# Group 08
-
 # **Weather App with PyQt and OpenWeather API**
 
 This is a simple weather app created with PyQt and OpenWeather API, which displays current weather information for a given location.
