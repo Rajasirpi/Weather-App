@@ -60,7 +60,7 @@ To run the app, simply run the **"weather.py"** file.
     - Sunrise time
     - sunset time
     
-    ![Screenshot](screenshot.png)
+    ![Alt text](Screenshot.png)
 
 ## APIs Used
 This app uses the OpenWeather API to retrieve weather information for a given location.
