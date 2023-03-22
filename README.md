@@ -60,7 +60,7 @@ To run the app, simply run the **"weather.py"** file.
     - Sunrise time
     - sunset time
     
-                                <img src="/path/to/img.jpg" alt="Alt text" width="500" height="300">
+                                <img src="Screenshot.png" alt="Alt text" width="500" height="300">
 
 ## APIs Used
 This app uses the OpenWeather API to retrieve weather information for a given location.
