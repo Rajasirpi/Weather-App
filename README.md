@@ -59,6 +59,8 @@ To run the app, simply run the **"weather.py"** file.
     - Wind speed
     - Sunrise time
     - sunset time
+    
+    ![Screenshot](screenshot.png)
 
 ## APIs Used
 This app uses the OpenWeather API to retrieve weather information for a given location.
